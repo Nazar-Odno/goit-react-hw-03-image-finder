@@ -13,7 +13,7 @@ export const StyleHeader = styled.header`
   padding-top: 12px;
   padding-bottom: 12px;
   color: #fff;
-  background: #a94b00 */
+  background: #a94b00
   box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
 `;
 export const StyledForm = styled.form`
