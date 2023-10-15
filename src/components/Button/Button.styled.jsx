@@ -3,7 +3,7 @@ export const StyledButton = styled.button`
 margin: 12px auto;
   padding: 8px 16px;
   border-radius: 2px;
-  background-color: #3f51b5;
+  background-color: #a94b00;
   transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
   text-align: center;
   display: block;
@@ -17,10 +17,9 @@ margin: 12px auto;
   font-style: normal;
   font-weight: 500;
   min-width: 180px;
-  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
-    0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
 
   &:hover,
   :focus {
-    background-color: #303f9f;
+    background-color: #a94b00;
   }`;
